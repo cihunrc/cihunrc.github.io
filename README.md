@@ -1,2 +1,0 @@
-# cihunrc.github.io
-cihunrc
